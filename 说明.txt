@@ -1,0 +1,1 @@
+此版本通过视图装饰器login_required和flask_login，认证登录用户
